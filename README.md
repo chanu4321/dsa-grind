@@ -1,6 +1,6 @@
 # DSA Grind 🚀🤙
 # Description:
-Welcome to my **DSA Grind** repository! 🚀
+Welcome to the **DSA Grind** repository! 🚀
 
 This repository is my daily journal of solved LeetCode and DSA (Data Structures and Algorithms) questions. As I prepare for my placements three years down the line, I've committed to consistent and deliberate practice to hone my problem-solving skills.
 
@@ -23,7 +23,9 @@ By making my progress public, I hope to contribute to the learning community and
 
 # Stay Connected:
 Let's connect on LinkedIn and grow together in our DSA journey.
+
 [LeetCode](https://leetcode.com/abhinav24shukla08/)
+
 [LinkedIn](https://www.linkedin.com/in/abhinavshu/)
 
 # Peace Out ☮️
