@@ -24,7 +24,7 @@ By making our progress public, we hope to contribute to the learning community a
 ## Stay Connected:
 Let's connect on LinkedIn and grow together in our DSA journey.
 
-[LeetCode-Abhinav](https://leetcode.com/abhinav24shukla08/)   [LeetCode-Shreya](https://leetcode.com/abhinav24shukla08/https://leetcode.com/srivastavashreyaa/)
+[LeetCode-Abhinav](https://leetcode.com/abhinav24shukla08/)   [LeetCode-Shreya](https://leetcode.com/srivastavashreyaa/)
 
 [LinkedIn-Abhinav](https://www.linkedin.com/in/abhinavshu/)   [LinkedIn-Shreya](https://www.linkedin.com/in/shreya-srivastava-544908287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
