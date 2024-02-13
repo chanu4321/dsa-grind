@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool checkInclusion(string s1, string s2) {
-        unordered_map< char, int >mp; 
+        unordered_map<char,int >mp; 
         for(auto it : s1){
             mp[it]++;
         }
