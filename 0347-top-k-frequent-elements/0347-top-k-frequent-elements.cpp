@@ -13,7 +13,7 @@ public:
         vector<pair<int, int>>s;
         for (auto i = m.begin(); i != m.end(); i++)
         {
-            s.push_back(make_pair(i->first, i->second));
+            s.push_back({i->first, i->second});
         }
         sort(s.begin(),s.end(),sortByVal);
         s.erase(s.begin() + k, s.end());
